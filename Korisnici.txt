@@ -1,0 +1,11 @@
+Brs|1234|Boris|Jancic|123 123 1233|jancicboris56@gmail.com|3
+Ars|1234|Boris|Jancic|123 123 1233|jancicboris56@gmail.com|1
+Mina|1234|Mina|Mina|123 123 1234|mina@gmail.com|1
+Nata|1234|Nata|Mah|123 123 1234|nata@gmail.com|1
+Uki|1234|Uki|Mir|123 1234 1234|uki@gmail.com|1
+Stef|stef|stef|stef|123 123 1234|stef@gmail.com|1
+LAKI|1234|Laky|Nekakov|123 123 1234|laki@gmail.com|1
+Stefan Kalajdzic|kalaj123|Stefan|Kalajdzic|123|stefan@gmail.com|1
+nacimaci|nacimaci|nacim|aci|123|naci@gmail.com|1
+Aki|1234|Aki|Deg|123 123 1234|aki@gmail.com|1
+pera|1234|Petar|Peric|123 123 1234|pera@gmail.com|1

@@ -1,0 +1,9 @@
+162092|NS-100-54|Peugeot 308|5|da|dizel|crna|5345|100|dostupan|213543
+162012|Ns-104-ET|Opel Corsa C 1.2|4|da|benzin|crvena|3517|124|dostupan|213543
+162023|NS-123-A|Corsa|4|da|dizel|zelena|1373|125|dostupan|213543
+162934|NS-412-T|Honda|5|da|benzin|ljubicasta|2974|237|dostupan|514573
+545236|NS-421-T|Fiat|4|ne|benzin|roze|420|213|nije dostupan|514573
+151988|NS-631-D|Karavan|6|da|benzin|crna|2034|42|dostupan|514573
+405873|NS-422-R|Kalaj|4|da|dizel|crna|1000|130|dostupan|923363
+769292|NS-325-S|Yugo|4|ne|benzin|braon|21430|10|nije dostupan|923363
+758159|NS-473-R|Mercedes|4|da|dizel|zelena|12034|30|dostupan|923363
